@@ -9,7 +9,7 @@ A simple and responsive To-Do List web application built using **HTML**, **CSS**
 - ☑️ Mark tasks as complete/incomplete
 
 ## 📸 Demo
-![To-Do List Screenshot](screenshot.png)
+![To-Do List Screenshot](to-do list.png)
 
 ## 🚀 Getting Started
 
