@@ -8,7 +8,8 @@ A simple and responsive To-Do List web application built using **HTML**, **CSS**
 - 🗑️ Delete individual tasks
 - ☑️ Mark tasks as complete/incomplete
 
-
+## 📸 Demo
+![To-Do List Screenshot](screenshot.png)
 
 ## 🚀 Getting Started
 
